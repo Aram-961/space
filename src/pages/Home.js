@@ -3,6 +3,7 @@ import Nav from '../Components/Nav'
 import Main from '../Components/Main'
 const Home = () => {
   return (
+
     <div className='home-page'>
       <Nav />
       <Main />
@@ -10,4 +11,4 @@ const Home = () => {
   )
 }
 
-export default Home
+export default Home;//im here :D // 
